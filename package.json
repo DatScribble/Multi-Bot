@@ -1,0 +1,13 @@
+{
+  "name": "Multi-Bot",
+  "description": "Just a Bot that I might make to do a lot of things",
+  "version": "0.0.0",
+  "main": "multibot.js",
+  "scripts": {
+    "starts": "node multibot.js"
+   },
+   "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
