@@ -3,7 +3,7 @@
   "description": "Just a Bot that I might make to do a lot of things",
   "version": "0.0.0",
   "main": "multibot.js",
-  "scripts": {
+  "script": {
     "starts": "node multibot.js"
    },
    "dependencies": {
